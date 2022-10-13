@@ -1,0 +1,9 @@
+{
+	"name": "zandose",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75531380-d06c-4639-ae0e-66e288ac5f8d",
+		"tenantId": "711e4634-6999-4883-b44b-7067f044f000"
+	}
+}
